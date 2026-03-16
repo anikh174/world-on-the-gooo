@@ -1,0 +1,31 @@
+.country {
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid skyblue;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  font-weight: bold;
+  align-items: center;
+}
+
+.border {
+  border: 2px solid blanchedalmond;
+  padding: 5px;
+  border-radius: 8px;
+  text-align: center;
+  width: 160px;
+}
+
+.btn{
+    border-radius: 5px;
+    background-color: black;
+    cursor: pointer;
+    padding: 10px;
+    margin: 10px;
+}
