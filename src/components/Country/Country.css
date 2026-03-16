@@ -29,3 +29,13 @@
     padding: 10px;
     margin: 10px;
 }
+
+.country-visited{
+    background-color: blueviolet;
+    color: white;
+}
+
+.img{
+    height: 150px;
+    width: 250px;
+}
